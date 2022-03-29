@@ -1,0 +1,52 @@
+body{
+    min-height: 100vh;
+}
+header{
+    background-color: #601f60;
+    min-height: 10vh;
+}
+footer{
+    margin-top: 10px!important;
+    background-color: #3a133a;
+    min-height: 10vh;
+    font-family:cursive;
+}
+section.alone{
+    min-height: 80vh;
+}
+.material-icons {
+  vertical-align: middle;
+}
+.active{
+    font-weight: 100;
+    font-family:cursive;
+}
+.card{
+    min-width:30vh;
+
+}
+.nav-link{
+    color: white!important;
+}
+.navbar-brand{
+    color: white;
+    font-weight: bolder;
+    font-family:cursive;
+}
+.btn-sm{
+    background-color:red;
+}
+.jumbotron{
+    background-image: url("https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60");
+}
+.badge-active{
+    color: white;
+    background-color: green;
+}
+.badge-inactive{
+    background-color: red;
+    color: white;
+}
+.fav{
+    color: red;
+}
